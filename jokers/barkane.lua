@@ -9,7 +9,7 @@ SMODS.Joker {
             "{C:inactive}(Must have room)"
         }
     },
-    atlas = 'Barkane',
+    atlas = 'Chase',
     rarity = 2,
     cost = 5,
     unlocked = true,
